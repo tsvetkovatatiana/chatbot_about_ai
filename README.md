@@ -15,7 +15,7 @@ Make sure you have the following installed on your system:
 
 
 ## Setup
-You don't need to set up anything. All is ready to work!
+The one thing you need to do is clone this repository. Now, All is ready to work!
 ## Usage
 1. Run the Chatbot:
 Execute the main script [chatbot_sqllite.py] to start the chatbot.
