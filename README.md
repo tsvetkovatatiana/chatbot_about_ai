@@ -1,8 +1,8 @@
 <img src="chatbot_img.jpeg" alt="logo" width="400">
 
 # Chatbot for AI Questions
-
-This is a simple chatbot designed to answer questions related to artificial intelligence (AI). 
+**made as a homework to practice dictionaries**
+This is a simple CLI programm designed to answer questions related to artificial intelligence (AI). 
 The chatbot uses an SQLite database to store predefined questions and answers. The code is written in Python.
 
 ___
