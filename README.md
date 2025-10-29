@@ -1,4 +1,4 @@
-<img src="chatbot_img.jpeg" alt="logo" width="400">
+<img src="chatbot_img.jpeg" alt="logo" width="200">
 
 # Chatbot for AI Questions
 **made as a homework to practice dictionaries**
